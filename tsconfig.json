@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "paths": {
+      // "#utils/*": ["./src/utils/*"]
+    },
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "noEmit": true
+  }
+}
